@@ -12,4 +12,4 @@
 
 # My socials
 #### Click on the links to get redirected!
-[My Linkein][linkedin]
+[My Linkedin][linkedin]
