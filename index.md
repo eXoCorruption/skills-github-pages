@@ -5,7 +5,7 @@
 
 # Introduction
 
-## Welcome to my own little GitHub page. I will mainly use this page to update my progress I make on learning GitHub. 
+## Welcome to my own little GitHub page. I will mainly use this page to update the progress I make on learning GitHub. Tech enthusiast since my teenage years — building PCs, solving problems, and now diving into software development.
 
 ## --------------------------------------------------------------------------------------------------------
 
