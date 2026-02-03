@@ -1,12 +1,11 @@
 ---
 # Welcome to my own website
 ---
-[steam_profile]: https://steamcommunity.com/profiles/76561198049447875
 [linkedin]: https://www.linkedin.com/in/luca-caputi-7b1259380/
 
 # Introduction
 
-## This is a test for creating my own GitHub Page
+## Welcome to my own little GitHub page. I will mainly use this page to update my progress I make on learning GitHub. 
 
 ## --------------------------------------------------------------------------------------------------------
 
